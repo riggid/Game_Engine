@@ -1,0 +1,200 @@
+# Blender 4.2.1 LTS MTL File: 'girl.blend'
+# www.blender.org
+
+newmtl Accessory_CatEar_01_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_15
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_15
+map_Bump -bm 1.000000 ../textures/Shader_NoneNormal
+
+newmtl MToon_Outline_(N00_000_00_Body_00_SKIN_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_10
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_10
+map_Bump -bm 1.000000 ../textures/_11
+
+newmtl MToon_Outline_(N00_000_00_Face_00_SKIN_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_04
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_04
+map_Bump -bm 1.000000 ../textures/_05
+
+newmtl MToon_Outline_(N00_004_01_Shoes_01_CLOTH_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_13
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_13
+map_Bump -bm 1.000000 ../textures/Shader_NoneNormal
+
+newmtl MToon_Outline_(N00_010_01_Onepiece_00_CLOTH_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_12
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_12
+map_Bump -bm 1.000000 ../textures/Shader_NoneNormal
+
+newmtl N00_000_00_Body_00_SKIN_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_10
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_10
+map_Bump -bm 1.000000 ../textures/_11
+
+newmtl N00_000_00_EyeHighlight_00_EYE_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_03
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_03
+map_Bump -bm 1.000000 ../textures/Shader_NoneNormal
+
+newmtl N00_000_00_EyeIris_00_EYE_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_02
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_02
+map_Bump -bm 1.000000 ../textures/Shader_NoneNormal
+
+newmtl N00_000_00_EyeWhite_00_EYE_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_06
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_06
+map_Bump -bm 1.000000 ../textures/Shader_NoneNormal
+
+newmtl N00_000_00_FaceBrow_00_FACE_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_07
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_07
+map_Bump -bm 1.000000 ../textures/Shader_NoneNormal
+
+newmtl N00_000_00_FaceEyelash_00_FACE_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_08
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_08
+map_Bump -bm 1.000000 ../textures/Shader_NoneNormal
+
+newmtl N00_000_00_FaceEyeline_00_FACE_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_09
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_09
+map_Bump -bm 1.000000 ../textures/Shader_NoneNormal
+
+newmtl N00_000_00_FaceMouth_00_FACE_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_01
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_01
+map_Bump -bm 1.000000 ../textures/Shader_NoneNormal
+
+newmtl N00_000_00_Face_00_SKIN_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_04
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_04
+map_Bump -bm 1.000000 ../textures/_05
+
+newmtl N00_000_00_HairBack_00_HAIR_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_14
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_14
+map_Bump -bm 1.000000 ../textures/N00_000_00_HairBack_00_nml
+
+newmtl N00_000_Hair_00_HAIR_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_16
+map_Ke ../textures/_17
+map_d ../textures/_16
+map_Bump -bm 1.000000 ../textures/N00_000_Hair_00_nml
+
+newmtl N00_004_01_Shoes_01_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_13
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_13
+map_Bump -bm 1.000000 ../textures/Shader_NoneNormal
+
+newmtl N00_010_01_Onepiece_00_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd ../textures/_12
+map_Ke ../textures/Shader_NoneBlack
+map_d ../textures/_12
+map_Bump -bm 1.000000 ../textures/Shader_NoneNormal

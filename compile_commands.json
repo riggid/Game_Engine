@@ -1,0 +1,164 @@
+[
+ {
+  "directory": "/home/nit/C++/OLD opengl/OpenGL1",
+  "arguments": [
+   "g++",
+   "-std=c++11",
+   "-Iimgui",
+   "-Iimgui/backends",
+   "-Iinc/Headers",
+   "-g",
+   "-Wall",
+   "-Wformat",
+   "-c",
+   "-o",
+   "main.o",
+   "main.cpp"
+  ],
+  "file": "main.cpp"
+ },
+ {
+  "directory": "/home/nit/C++/OLD opengl/OpenGL1",
+  "arguments": [
+   "cc",
+   "-std=c++11",
+   "-Iimgui",
+   "-Iimgui/backends",
+   "-Iinc/Headers",
+   "-g",
+   "-Wall",
+   "-Wformat",
+   "-c",
+   "-o",
+   "glad.o",
+   "glad.c"
+  ],
+  "file": "glad.c"
+ },
+ {
+  "directory": "/home/nit/C++/OLD opengl/OpenGL1",
+  "arguments": [
+   "g++",
+   "-std=c++11",
+   "-Iimgui",
+   "-Iimgui/backends",
+   "-Iinc/Headers",
+   "-g",
+   "-Wall",
+   "-Wformat",
+   "-c",
+   "-o",
+   "imgui.o",
+   "imgui/imgui.cpp"
+  ],
+  "file": "imgui/imgui.cpp"
+ },
+ {
+  "directory": "/home/nit/C++/OLD opengl/OpenGL1",
+  "arguments": [
+   "g++",
+   "-std=c++11",
+   "-Iimgui",
+   "-Iimgui/backends",
+   "-Iinc/Headers",
+   "-g",
+   "-Wall",
+   "-Wformat",
+   "-c",
+   "-o",
+   "imgui_demo.o",
+   "imgui/imgui_demo.cpp"
+  ],
+  "file": "imgui/imgui_demo.cpp"
+ },
+ {
+  "directory": "/home/nit/C++/OLD opengl/OpenGL1",
+  "arguments": [
+   "g++",
+   "-std=c++11",
+   "-Iimgui",
+   "-Iimgui/backends",
+   "-Iinc/Headers",
+   "-g",
+   "-Wall",
+   "-Wformat",
+   "-c",
+   "-o",
+   "imgui_draw.o",
+   "imgui/imgui_draw.cpp"
+  ],
+  "file": "imgui/imgui_draw.cpp"
+ },
+ {
+  "directory": "/home/nit/C++/OLD opengl/OpenGL1",
+  "arguments": [
+   "g++",
+   "-std=c++11",
+   "-Iimgui",
+   "-Iimgui/backends",
+   "-Iinc/Headers",
+   "-g",
+   "-Wall",
+   "-Wformat",
+   "-c",
+   "-o",
+   "imgui_tables.o",
+   "imgui/imgui_tables.cpp"
+  ],
+  "file": "imgui/imgui_tables.cpp"
+ },
+ {
+  "directory": "/home/nit/C++/OLD opengl/OpenGL1",
+  "arguments": [
+   "g++",
+   "-std=c++11",
+   "-Iimgui",
+   "-Iimgui/backends",
+   "-Iinc/Headers",
+   "-g",
+   "-Wall",
+   "-Wformat",
+   "-c",
+   "-o",
+   "imgui_widgets.o",
+   "imgui/imgui_widgets.cpp"
+  ],
+  "file": "imgui/imgui_widgets.cpp"
+ },
+ {
+  "directory": "/home/nit/C++/OLD opengl/OpenGL1",
+  "arguments": [
+   "g++",
+   "-std=c++11",
+   "-Iimgui",
+   "-Iimgui/backends",
+   "-Iinc/Headers",
+   "-g",
+   "-Wall",
+   "-Wformat",
+   "-c",
+   "-o",
+   "imgui_impl_glfw.o",
+   "imgui/backends/imgui_impl_glfw.cpp"
+  ],
+  "file": "imgui/backends/imgui_impl_glfw.cpp"
+ },
+ {
+  "directory": "/home/nit/C++/OLD opengl/OpenGL1",
+  "arguments": [
+   "g++",
+   "-std=c++11",
+   "-Iimgui",
+   "-Iimgui/backends",
+   "-Iinc/Headers",
+   "-g",
+   "-Wall",
+   "-Wformat",
+   "-c",
+   "-o",
+   "imgui_impl_opengl3.o",
+   "imgui/backends/imgui_impl_opengl3.cpp"
+  ],
+  "file": "imgui/backends/imgui_impl_opengl3.cpp"
+ }
+]
