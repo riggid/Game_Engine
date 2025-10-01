@@ -7,8 +7,6 @@
 #include <glfw3.h>
 
 // GLM Mathematics
-// Note: Dependency errors (e.g., stddef.h, cmath) likely indicate a compiler/IntelliSense configuration issue,
-// not an error in these include paths themselves.
 #include <glm/glm.hpp>
 #include <glm/gtc/matrix_transform.hpp>
 #include <glm/gtc/type_ptr.hpp>

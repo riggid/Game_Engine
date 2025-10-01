@@ -1,6 +1,7 @@
 #include "Setup.h"
 
 void shaderViewSetup(Shader shader);
+
 // settings:
 unsigned int SCR_WIDTH = 1600;
 unsigned int SCR_HEIGHT = 900;
@@ -42,7 +43,6 @@ float bloomThreshold = 0.8f;
 float exposure = 0.8f;
 
 bool vsyncEnabled = true;
-
 int main() {
   // Initialize GLFW and create window
   GLFWwindow* window = Setup::initializeWindow(SCR_WIDTH, SCR_HEIGHT, camera);
